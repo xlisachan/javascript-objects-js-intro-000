@@ -1,7 +1,7 @@
 var playlist = {
-  {Drake: "God's Plan"},
-  {Ed Sheeran: "Perfect"},
-  {Bruno Mars & Cardi B: "Finesse"}
+  [Drake: "God's Plan"],
+  [Ed Sheeran: "Perfect"],
+  [Bruno Mars & Cardi B: "Finesse"]
 };
 
 function updatePlaylist(playlist, artistName, songTitle){
